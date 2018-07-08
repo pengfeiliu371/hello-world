@@ -1,2 +1,2 @@
 # hello-world
-just for fun
+This follows the git tutorial 
